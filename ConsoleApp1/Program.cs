@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Workd!");
             Console.Read();
-        }
+            Console.ReadKey();
+        } 
     }
 }
