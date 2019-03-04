@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Workd!");
+            Consoe.WriteLine("Hello Workd!");
             Console.Read();
             Console.ReadKey();
         } 
